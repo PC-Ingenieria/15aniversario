@@ -1,0 +1,21 @@
+.logo{
+    width: 15vw;
+}
+#ribbon{
+    /*background-color: rgb(219, 26, 26);
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 25px, rgba(131, 21, 21,0.5)25px, rgba(131, 21, 21,0.5)40px );*/
+    background-image: radial-gradient(circle at 50% 7.07%, #ffff65 0, #feff65 10%, #e4fa67 20%, #c8f169 30%, #ace66b 40%, #90d86c 50%, #75ca6d 60%, #5cbd6f 70%, #44b271 80%, #29a873 90%, #00a177 100%);
+}
+.carousel #ribbon{
+    width: 100vh;
+}
+
+h1{
+    font-family: 'Lobster', cursive;    
+    font-size: calc(1rem + 3.5vw);
+    /*font-family: 'Dancing Script', cursive; */
+}
+h4{
+    font-family: 'Dancing Script', cursive;
+    font-size: calc(0.5rem + 3.5vw);
+}
